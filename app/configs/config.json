@@ -1,0 +1,8 @@
+{
+  "token": "6688233020:AAHBet_BmZPeK7Wp6WsYkgO_KozR42AMpIQ",
+  "db_config": {
+    "host": "localhost",
+    "user": "aleksejgracev",
+    "database": "logins"
+  }
+}
